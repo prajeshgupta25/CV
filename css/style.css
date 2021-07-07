@@ -1,0 +1,41 @@
+/******************************************Tag Seclector******************************************/
+body{
+        background-color:#bedbbb;
+    }
+
+hr{
+    border: white;
+    width: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+}
+h1{
+    color: #66bfbf;
+}
+h3{
+    color: #66bfbf;
+}
+a{
+    background-color: darkgoldenrod;
+}
+
+
+
+/******************************************Class Selector******************************************/
+
+.company{
+    background-color: darkgreen;
+}
+.contact{
+    background-color: darkred;
+}
+
+
+
+/******************************************ID Selector******************************************/
+
+#h3{
+    color: darkviolet;
+}
